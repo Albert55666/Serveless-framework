@@ -1,0 +1,13 @@
+{
+    "option": {
+        "useNewUrlParser": true,
+        "ssl": true,
+        "authSource": "admin",
+        "useCreateIndex": true,
+        "retryWrites": true,
+        "useUnifiedTopology": true
+    },
+    "app": {
+        "port": 8800
+    }
+}
